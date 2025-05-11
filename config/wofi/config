@@ -1,0 +1,4 @@
+normal_window=true
+style=~/.config/wofi/style.css
+gtk_dark=true
+normal_window=true

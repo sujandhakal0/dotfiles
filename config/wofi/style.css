@@ -1,0 +1,28 @@
+* {
+    font-family: sans-serif;
+    font-size: 14px;
+}
+
+window {
+    background-color: #2f343f;
+    color: #ffffff;
+    border-radius: 10px;
+}
+
+#entry {
+    background-color: #2f343f;
+    color: #ffffff;
+    padding: 5px;
+}
+
+#entry:selected {
+    background-color: #3f83f8;
+    color: #ffffff;
+}
+
+#input {
+    background-color: #353945;
+    color: #ffffff;
+    border: none;
+    padding: 8px;
+}

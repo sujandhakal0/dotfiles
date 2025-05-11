@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Wofi Background
+Exec=/home/sujan/wofi-background.sh
+Type=Application
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true

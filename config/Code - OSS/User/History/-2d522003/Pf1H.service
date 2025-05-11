@@ -1,0 +1,9 @@
+[Unit]
+Description=Wofi Launcher
+
+[Service]
+ExecStart=/usr/bin/wofi --show drun
+Restart=on-failure
+
+[Install]
+WantedBy=default.target

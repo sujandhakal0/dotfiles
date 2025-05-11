@@ -1,0 +1,17 @@
+2025/05/11-19:08:26.230 937 Reusing MANIFEST /home/sujan/.config/google-chrome/Default/IndexedDB/https_www.messenger.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/05/11-19:08:26.230 937 Recovering log #67
+2025/05/11-19:08:26.265 937 Reusing old log /home/sujan/.config/google-chrome/Default/IndexedDB/https_www.messenger.com_0.indexeddb.leveldb/000067.log 
+2025/05/11-19:08:28.496 937 Level-0 table #74: started
+2025/05/11-19:08:28.510 937 Level-0 table #74: 2281430 bytes OK
+2025/05/11-19:08:28.511 937 Delete type=0 #67
+2025/05/11-19:08:28.642 937 Compacting 1@1 + 3@2 files
+2025/05/11-19:08:28.678 937 Generated table #75@1: 67014 keys, 2210519 bytes
+2025/05/11-19:08:28.695 937 Generated table #76@1: 33221 keys, 2185428 bytes
+2025/05/11-19:08:28.702 937 Generated table #77@1: 962 keys, 2106329 bytes
+2025/05/11-19:08:28.707 937 Generated table #78@1: 2071 keys, 360693 bytes
+2025/05/11-19:08:28.707 937 Compacted 1@1 + 3@2 files => 6862969 bytes
+2025/05/11-19:08:28.708 937 compacted to: files[ 0 0 4 0 0 0 0 ]
+2025/05/11-19:08:28.708 937 Delete type=2 #69
+2025/05/11-19:08:28.708 937 Delete type=2 #70
+2025/05/11-19:08:28.708 937 Delete type=2 #71
+2025/05/11-19:08:28.708 937 Delete type=2 #74

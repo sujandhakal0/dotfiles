@@ -1,0 +1,29 @@
+2025/05/11-14:11:42.159 9c9 Reusing MANIFEST /home/sujan/.config/google-chrome/Default/IndexedDB/https_www.messenger.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/05/11-14:11:42.159 9c9 Recovering log #56
+2025/05/11-14:11:42.169 9c9 Reusing old log /home/sujan/.config/google-chrome/Default/IndexedDB/https_www.messenger.com_0.indexeddb.leveldb/000056.log 
+2025/05/11-14:11:46.105 9ca Level-0 table #63: started
+2025/05/11-14:11:46.118 9ca Level-0 table #63: 2048455 bytes OK
+2025/05/11-14:11:46.120 9ca Delete type=0 #56
+2025/05/11-14:11:46.140 9c9 Compacting 1@1 + 3@2 files
+2025/05/11-14:11:46.174 9c9 Generated table #64@1: 69839 keys, 2213957 bytes
+2025/05/11-14:11:46.190 9c9 Generated table #65@1: 24099 keys, 2145728 bytes
+2025/05/11-14:11:46.201 9c9 Generated table #66@1: 3832 keys, 1882670 bytes
+2025/05/11-14:11:46.201 9c9 Compacted 1@1 + 3@2 files => 6242355 bytes
+2025/05/11-14:11:46.203 9c9 compacted to: files[ 0 0 3 0 0 0 0 ]
+2025/05/11-14:11:51.955 9ca Level-0 table #68: started
+2025/05/11-14:11:51.978 9ca Level-0 table #68: 2177927 bytes OK
+2025/05/11-14:11:52.005 9ca Delete type=2 #58
+2025/05/11-14:11:52.005 9ca Delete type=2 #59
+2025/05/11-14:11:52.006 9ca Delete type=2 #60
+2025/05/11-14:11:52.006 9ca Delete type=0 #62
+2025/05/11-14:11:52.006 9ca Delete type=2 #63
+2025/05/11-14:11:52.039 9ca Compacting 1@1 + 3@2 files
+2025/05/11-14:11:52.068 9ca Generated table #69@1: 68372 keys, 2210893 bytes
+2025/05/11-14:11:52.082 9ca Generated table #70@1: 28467 keys, 2192118 bytes
+2025/05/11-14:11:52.096 9ca Generated table #71@1: 3889 keys, 1910678 bytes
+2025/05/11-14:11:52.097 9ca Compacted 1@1 + 3@2 files => 6313689 bytes
+2025/05/11-14:11:52.120 9ca compacted to: files[ 0 0 3 0 0 0 0 ]
+2025/05/11-14:11:52.120 9ca Delete type=2 #64
+2025/05/11-14:11:52.121 9ca Delete type=2 #65
+2025/05/11-14:11:52.121 9ca Delete type=2 #66
+2025/05/11-14:11:52.121 9ca Delete type=2 #68

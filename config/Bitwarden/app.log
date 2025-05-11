@@ -1,0 +1,39 @@
+[2025-05-07 22:19:38.492] [info]  No state version found, assuming empty state.
+[2025-05-07 22:19:38.627] [info]  Coredumps are disabled in renderer process
+[2025-05-07 22:19:39.003] [info]  State version: 70
+[2025-05-07 22:19:39.839] [info]  Self-host environment did not respond in time, emitting previous config.
+[2025-05-07 22:19:39.851] [info]  Retrieving application id
+[2025-05-07 22:19:42.946] [info]  SSH agent started
+[2025-05-07 22:19:57.294] [info]  Retrieving application id
+[2025-05-07 22:20:03.657] [info]  Retrieving application id
+[2025-05-07 22:20:06.395] [error] {
+  response: {
+    error: 'invalid_grant',
+    error_description: 'invalid_username_or_password',
+    ErrorModel: {
+      Message: 'Username or password is incorrect. Try again.',
+      Object: 'error'
+    }
+  },
+  message: 'Username or password is incorrect. Try again.',
+  captchaRequired: false,
+  statusCode: 400
+}
+[2025-05-07 22:20:10.660] [info]  Retrieving application id
+[2025-05-07 22:20:43.248] [error] {
+  response: {
+    error: 'device_error',
+    error_description: 'Invalid New Device OTP',
+    ErrorModel: { Message: 'invalid new device otp', Object: 'error' }
+  },
+  message: 'invalid new device otp',
+  captchaRequired: false,
+  statusCode: 400
+}
+[2025-05-07 22:20:51.311] [info]  Active account changed, clearing SSH keys
+[2025-05-07 22:20:51.348] [info]  Error: no result
+[2025-05-07 22:20:52.329] [info]  WebSocket connected to wss://notifications.bitwarden.com/hub?access_token=eyJhbGciOiJSUzI1NiIsImtpZCI6IkJDMzZDMjE0REI0OEYyMzVCNzdEQTNGMTcyMEMxQTM1QTk2MkVBNDNSUzI1NiIsIng1dCI6InZEYkNGTnRJOGpXM2ZhUHhjZ3dhTmFsaTZrTSIsInR5cCI6ImF0K2p3dCJ9.eyJpc3MiOiJodHRwczovL2lkZW50aXR5LmJpdHdhcmRlbi5jb20iLCJuYmYiOjE3NDY2MzU3NTEsImlhdCI6MTc0NjYzNTc1MSwiZXhwIjoxNzQ2NjM5MzUxLCJzY29wZSI6WyJhcGkiLCJvZmZsaW5lX2FjY2VzcyJdLCJhbXIiOlsiQXBwbGljYXRpb24iXSwiY2xpZW50X2lkIjoiZGVza3RvcCIsInN1YiI6IjVmY2QwMzU0LWQzYWYtNDEyZi04MzdlLWIyMWMwMDU3NmExNSIsImF1dGhfdGltZSI6MTc0NjYzNTc1MSwiaWRwIjoiYml0d2FyZGVuIiwicHJlbWl1bSI6ZmFsc2UsImVtYWlsIjoibW9vbmVyZ29uZTBAZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsInNzdGFtcCI6IjQ5MmM1MGZiLWE5Y2ItNGZmZC04ZjdmLTc3OTExNDcxOTRkYyIsIm5hbWUiOiJTdWphbiIsImRldmljZSI6ImI0ZjE1N2ViLWI1M2UtNDY1ZC04N2E1LWJhNjM1OTAwM2RkYiIsImRldmljZXR5cGUiOiJMaW51eERlc2t0b3AiLCJqdGkiOiI1NjU0MkI2NjY0NTNBMUNGNUJDN0Q0NzIxMUVCQkU4OSJ9.kwWxhNhBOvilGdSLu2A7tfCg2wcfEsBtZ377xZrCsF5u0ikTfdqlIApMnZWJ5NvJ2INGfyYH8tyTyZs7iRK7JkD9z0gBGckuYXluc_ZCJcRxMmeOgVC4x8sFd7dSKkUw__Q7mcG8dGv0Pb21YIhy6u46lLMu9sdmnyfvEJzlktW093bV4q1l3nakM_Xg07uh0ib2LfgMckCkjlNEjx2b_jmngzVctAql-KLd7zmDsN8bdrR_5wI-SbU0m6RG5Rnlktw8aFEGAQPet4_zn-vHYg_6b0cdfh4iJXpJvcvXePkBwGfBht9Rdl-MCJbXf1OyQXZJ_z-kNDWDokangOx_gccxqTT1uzxjX2_emQhZ4gNVAwBSYUwIx_ZPzcP81e_VAfc9DyYLwFhNzTmodjMu5ZGfZ9mH-ypkBiXOKeL4D9urDL8J5cPAQwQu99eVe5FEWe2HwFjNrv2Z2z6P-a3ux0u1huYYn0Psp9--6JiInmIGGdV4GuDUbzLuFiiAMUmlz4AExaT9j3SGPcYgAtf7VQxPDDgsrdT_Drdibo4xqEcD9ewi8k89JX8FvLSE3gyvuEOOA9ftxbUbTRIgPLDGHrFHW4wC424vf6PaRWh1V32yikmo3YMd7MlIinYdK7m-oNnH9rXXRNMgAd4K-xuYQC-sa4wsMueZnBtWkHIaQ3M.
+[2025-05-07 22:20:52.330] [info]  Using HubProtocol 'messagepack'.
+[2025-05-07 22:20:53.162] [info]  Starting decryption using multithreading with 1 workers for 238 items
+[2025-05-07 22:20:53.259] [info]  Finished decrypting 238 items using 1 workers
+[2025-05-07 22:20:53.310] [info]  Finished search indexing
