@@ -1,0 +1,18 @@
+2025/12/16-11:41:10.422 130a Reusing MANIFEST /home/sjj/.config/koodo-reader/Local Storage/leveldb/MANIFEST-000001
+2025/12/16-11:41:10.429 130a Recovering log #43
+2025/12/16-11:41:10.429 130a Reusing old log /home/sjj/.config/koodo-reader/Local Storage/leveldb/000043.log 
+2025/12/16-11:57:18.287 130a Level-0 table #46: started
+2025/12/16-11:57:18.299 130a Level-0 table #46: 17460 bytes OK
+2025/12/16-11:57:18.301 130a Delete type=0 #43
+2025/12/16-11:57:18.301 130a Compacting 4@0 + 1@1 files
+2025/12/16-11:57:18.303 130a Generated table #47@0: 7 keys, 10374 bytes
+2025/12/16-11:57:18.304 130a Compacted 4@0 + 1@1 files => 10374 bytes
+2025/12/16-11:57:18.305 130a compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/12/16-11:57:18.306 130a Delete type=2 #36
+2025/12/16-11:57:18.306 130a Delete type=2 #39
+2025/12/16-11:57:18.306 130a Delete type=2 #41
+2025/12/16-11:57:18.306 130a Delete type=2 #43
+2025/12/16-11:57:18.306 130a Delete type=2 #46
+2025/12/16-16:54:06.863 130a Level-0 table #49: started
+2025/12/16-16:54:06.876 130a Level-0 table #49: 12781 bytes OK
+2025/12/16-16:54:06.879 130a Delete type=0 #45

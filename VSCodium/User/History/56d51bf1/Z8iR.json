@@ -1,0 +1,7 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.productIconTheme": "material-product-icons",
+    "workbench.colorTheme": "Cosmic Nebula Soft",
+    "git.blame.statusBarItem.enabled": false,
+    "workbench.statusBar.visible": false
+}

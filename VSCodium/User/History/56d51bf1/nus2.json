@@ -1,0 +1,14 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.productIconTheme": "material-product-icons",
+    "workbench.colorTheme": "Cosmic Nebula Soft",
+    "git.blame.statusBarItem.enabled": false,
+    "workbench.statusBar.visible": false,
+    "editor.minimap.enabled": false,
+    "breadcrumbs.enabled": false,
+    "window.customTitleBarVisibility": "never",
+    "window.customMenuBarAltFocus": false,
+    "window.enableMenuBarMnemonics": false,
+    "window.menuBarVisibility": "hidden",
+    "window.titleBarStyle": "native"
+}

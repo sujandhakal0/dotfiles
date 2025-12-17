@@ -1,0 +1,5 @@
+2025-12-17 06:54:29.191 [info] Getting Manifest... ritwickdey.liveserver
+2025-12-17 06:54:30.281 [info] Installing extension: ritwickdey.liveserver {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/sjj/.vscode-oss/extensions/extensions.json","path":"/home/sjj/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.106.37943","date":"2025-12-16T16:02:52.511Z"}}
+2025-12-17 06:54:37.427 [info] Extracted extension to file:///home/sjj/.vscode-oss/extensions/ritwickdey.liveserver-5.7.9-universal: ritwickdey.liveserver
+2025-12-17 06:54:37.695 [info] Renamed to /home/sjj/.vscode-oss/extensions/ritwickdey.liveserver-5.7.9-universal
+2025-12-17 06:54:37.718 [info] Extension installed successfully: ritwickdey.liveserver vscode-userdata:/home/sjj/.vscode-oss/extensions/extensions.json

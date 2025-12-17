@@ -1,0 +1,8 @@
+2025/12/15-22:47:59.292 32ca Reusing MANIFEST /home/sjj/.config/koodo-reader/Local Storage/leveldb/MANIFEST-000001
+2025/12/15-22:47:59.298 32ca Recovering log #40
+2025/12/15-22:47:59.299 32ca Level-0 table #43: started
+2025/12/15-22:47:59.301 32ca Level-0 table #43: 19641 bytes OK
+2025/12/15-22:47:59.302 32ca Recovering log #43
+2025/12/15-22:47:59.302 32ca Reusing old log /home/sjj/.config/koodo-reader/Local Storage/leveldb/000043.log 
+2025/12/15-22:47:59.304 32ca Delete type=0 #40
+2025/12/15-22:47:59.304 32ca Delete type=2 #44

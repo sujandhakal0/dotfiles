@@ -1,0 +1,61 @@
+2025-12-17 06:44:19.730 [info] Extension host with pid 3976 started
+2025-12-17 06:44:19.730 [info] Skipping acquiring lock for /home/sjj/.config/VSCodium/User/workspaceStorage/610f6986c182a3c06aedda512496afac.
+2025-12-17 06:44:19.747 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-12-17 06:44:19.845 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2025-12-17 06:44:19.983 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-12-17 06:44:20.093 [info] Eager extensions activated
+2025-12-17 06:44:20.094 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-12-17 06:44:20.099 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-12-17 06:44:20.134 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2025-12-17 06:44:20.148 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-12-17 06:44:24.170 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2025-12-17 06:44:24.373 [info] ExtensionService#_doActivateExtension cosmic-themes.theme-cosmic-nebula, startup: false, activationEvent: '*'
+2025-12-17 06:44:24.377 [info] ExtensionService#_doActivateExtension lazyvscode-theme.lazyvscode-theme, startup: false, activationEvent: '*'
+2025-12-17 06:44:24.390 [error] Activating extension lazyvscode-theme.lazyvscode-theme failed due to an error:
+2025-12-17 06:44:24.390 [error] TypeError: Cannot read properties of undefined (reading 'selection')
+	at Object.<anonymous> (/home/sjj/.vscode-oss/extensions/lazyvscode-theme.lazyvscode-theme-6.4.5-universal/follow-cursor.js:19:31)
+	at Module._compile (node:internal/modules/cjs/loader:1714:14)
+	at Module._extensions..js (node:internal/modules/cjs/loader:1848:10)
+	at Module.load (node:internal/modules/cjs/loader:1448:32)
+	at Module._load (node:internal/modules/cjs/loader:1270:12)
+	at c._load (node:electron/js2c/node_init:2:17993)
+	at e._load (file:///usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:402:6573)
+	at t._load (file:///usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:220:28755)
+	at r._load (file:///usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:212:24901)
+	at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+	at wrapModuleLoad (node:internal/modules/cjs/loader:244:24)
+	at Module.require (node:internal/modules/cjs/loader:1470:12)
+	at require (node:internal/modules/helpers:147:16)
+	at Object.<anonymous> (/home/sjj/.vscode-oss/extensions/lazyvscode-theme.lazyvscode-theme-6.4.5-universal/registerFollowCursor.js:2:48)
+	at Module._compile (node:internal/modules/cjs/loader:1714:14)
+	at Module._extensions..js (node:internal/modules/cjs/loader:1848:10)
+	at Module.load (node:internal/modules/cjs/loader:1448:32)
+	at Module._load (node:internal/modules/cjs/loader:1270:12)
+	at c._load (node:electron/js2c/node_init:2:17993)
+	at e._load (file:///usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:402:6573)
+	at t._load (file:///usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:220:28755)
+	at r._load (file:///usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:212:24901)
+	at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+	at wrapModuleLoad (node:internal/modules/cjs/loader:244:24)
+	at Module.require (node:internal/modules/cjs/loader:1470:12)
+	at require (node:internal/modules/helpers:147:16)
+	at Object.<anonymous> (/home/sjj/.vscode-oss/extensions/lazyvscode-theme.lazyvscode-theme-6.4.5-universal/extension.js:4:34)
+	at Module._compile (node:internal/modules/cjs/loader:1714:14)
+	at Module._extensions..js (node:internal/modules/cjs/loader:1848:10)
+	at Module.load (node:internal/modules/cjs/loader:1448:32)
+	at Module._load (node:internal/modules/cjs/loader:1270:12)
+	at c._load (node:electron/js2c/node_init:2:17993)
+	at e._load (file:///usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:402:6573)
+	at t._load (file:///usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:220:28755)
+	at r._load (file:///usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:212:24901)
+	at TracingChannel.traceSync (node:diagnostics_channel:328:14)
+	at wrapModuleLoad (node:internal/modules/cjs/loader:244:24)
+	at Module.require (node:internal/modules/cjs/loader:1470:12)
+	at require (node:internal/modules/helpers:147:16)
+	at xX._doLoadModule (file:///usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:251:1632)
+2025-12-17 06:44:28.427 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2025-12-17 06:44:28.554 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-12-17 06:44:29.407 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2025-12-17 06:54:37.883 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2025-12-17 06:57:33.015 [info] Extension host terminating: renderer closed the MessagePort
+2025-12-17 06:57:33.030 [info] Extension host with pid 3976 exiting with code 0

@@ -1,0 +1,163 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    color: #333;
+    line-height: 1.6;
+    background-color: #f9f9f9;
+    max-width: 210mm; /* A4 width */
+    margin: 20px auto;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: white;
+}
+
+.container {
+    padding: 25px 30px;
+}
+
+header {
+    border-bottom: 2px solid #333;
+    padding-bottom: 15px;
+    margin-bottom: 25px;
+}
+
+.name {
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    letter-spacing: 0.5px;
+}
+
+.contact-info {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    margin-bottom: 8px;
+    font-size: 14px;
+}
+
+.contact-item {
+    white-space: nowrap;
+}
+
+.contact-info a {
+    color: #333;
+    text-decoration: none;
+}
+
+.contact-info a:hover {
+    text-decoration: underline;
+}
+
+.summary {
+    margin-bottom: 30px;
+    font-size: 15px;
+}
+
+.section {
+    margin-bottom: 25px;
+}
+
+h2 {
+    font-size: 20px;
+    border-bottom: 1px solid #333;
+    padding-bottom: 5px;
+    margin-bottom: 15px;
+    margin-top: 25px;
+}
+
+.education-item, .project-item, .certification-item {
+    margin-bottom: 20px;
+}
+
+.education-title, .project-title, .certification-title {
+    font-weight: bold;
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+
+.institution, .tech-stack, .certification-institution {
+    font-style: italic;
+    margin-bottom: 5px;
+    font-size: 14px;
+}
+
+.duration, .gpa, .certification-details {
+    font-size: 14px;
+    color: #555;
+    margin-bottom: 8px;
+}
+
+.project-description {
+    margin-bottom: 10px;
+}
+
+ul {
+    padding-left: 20px;
+    margin-bottom: 10px;
+}
+
+li {
+    margin-bottom: 5px;
+    font-size: 14.5px;
+}
+
+.skills-container {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.skill-category {
+    font-size: 15px;
+}
+
+.language-item, .reference-item {
+    margin-bottom: 10px;
+    font-size: 15px;
+}
+
+.reference-item div {
+    margin-top: 5px;
+    font-size: 14.5px;
+}
+
+.page-break {
+    page-break-before: always;
+    height: 0;
+    margin: 0;
+    padding: 0;
+}
+
+/* Link styling */
+a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Print styles */
+@media print {
+    body {
+        margin: 0;
+        box-shadow: none;
+        max-width: 100%;
+    }
+    
+    .container {
+        padding: 20px;
+    }
+    
+    .page-break {
+        display: block;
+        height: 0;
+        overflow: hidden;
+    }
+}
